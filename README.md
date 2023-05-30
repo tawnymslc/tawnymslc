@@ -4,5 +4,5 @@ Hi Everyone. Thanks for visiting! 👋
 - My most recent roles have been in tech as an integration consultant/engineer. Supporting clients onboarding/integrating. 
 - 🌱 I’m currently learning typescript. I recently graduated Nucamp's Full-Stack Bootcamp. 
 - 💬 Ask me about my favorite city, Tokyo! I just got back from my 4th trip. 
-- 📫 How to reach me: tawnymslc@gamil.com / 385-309-8607
+- 📫 How to reach me: tawnymslc@gmail.com
 - ⚡ Fun fact: I'm certified as a group fitness instructor. I'm certified in 2 formats, werkit and phunk fit. 
