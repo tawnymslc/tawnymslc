@@ -1,8 +1,31 @@
-Hi Everyone. Thanks for visiting! 👋
+# Hi there — thanks for stopping by! 👋
 
-- 🔭 At my portfolio site, tawny-mathi.com, I have integrated Unstoppable Domain's Partner API and Stripe's Payment API. It's a React App built on the frontend with Node.js server on the backend. I have since added a Spotify integration where users can search for their favorite artist top tracks, albums, and info. I have also added a news site to showcase my frontend/bootstrap skills. I'm now working on an ETL integration where it will consume data from an API, format that data and display it in a dashboard (dashboard is live)
-- 💻  My most recent role was an integration engineer at Unstoppable Domains. I supported integration development with dApps partnering with Unstoppable. I also completed integrations (pull requests) for clients. 
-- 🌱 I’m currently learning typescript. I recently graduated Nucamp's Full-Stack Bootcamp. 
-- 💬 Ask me about my favorite city, Tokyo! I just got back from my 4th trip. 
-- 📫 How to reach me: tawnymslc@gmail.com
-- ⚡ Fun fact: I'm certified as a group fitness instructor. I'm certified in 2 formats, werkit and phunk fit. 
+🎯 I'm Tawny, a frontend-focused engineer with a background in integration, customer onboarding, and API development across SaaS, Web3, and EdTech industries.
+
+---
+
+## 🌐 Portfolio
+Check out my latest work: [tawny-mathi.com](https://tawny-mathi.com)  
+Built with **React**, custom CSS, and responsive design principles — fully optimized for mobile and desktop.
+
+### 🧩 Featured Projects:
+- **Unstoppable Domains Integration** – Built using the Partner API with a custom Node backend
+- **Stripe Checkout Integration** – Client-side React + server-side Node.js API handling
+- **Spotify Artist Explorer** – Search artists, albums, and tracks via Spotify Web API
+- **News Homepage Clone** – A responsive editorial-style layout using React and Bootstrap
+- **ETL Dashboard Project** – Live FastAPI backend that extracts, transforms, and visualizes external product data in a dashboard format
+
+---
+
+## 👨‍💻 About Me
+
+- 💼 Most recently: **Partner Integration Engineer** at **Unstoppable Domains**, where I supported dApp teams through API onboarding, built client-side integrations, and submitted PRs to production repositories.
+- 🎓 Graduate of **Nucamp’s Full-Stack + Backend Bootcamps**  
+- 🌱 Currently learning **TypeScript** and sharpening my Python/SQL for backend scripting
+- 🌍 Favorite city? **Tokyo** — just got back from my fourth visit!
+- 📧 Reach out: **tawnymslc@gmail.com**
+- ⚡ Fun fact: I'm a certified **group fitness instructor** (NRG Dance Fitness + PhunkFit)
+
+---
+
+Let’s connect and thanks again for visiting!
